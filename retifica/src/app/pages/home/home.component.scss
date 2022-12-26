@@ -49,3 +49,11 @@ section:nth-of-type(2){
 section:nth-of-type(3){
   background-image: url("../../../assets/cabeçote1.jpg")
 }
+
+.whats{
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  z-index: 9999;
+  cursor: pointer;
+}
